@@ -6,7 +6,7 @@ move in all four directions and is able to collect a mine only if it is in the s
 mine. The program will take as input the initial position of the robot and the positions
 of all of the mines. The objective of the AI module is to compute a sequence of actions
 that the robot can follow in order to go to all the mines and collect them. Below is an
-example grid.
+example grid:
 
 ![Screenshot from 2022-06-15 02-37-02](https://user-images.githubusercontent.com/72989304/173712331-8f9b0064-e891-4180-85ed-4a926a81b950.png)
 
