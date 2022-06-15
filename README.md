@@ -11,5 +11,5 @@ example grid:
 ![Screenshot from 2022-06-15 02-37-02](https://user-images.githubusercontent.com/72989304/173712331-8f9b0064-e891-4180-85ed-4a926a81b950.png)
 
 The robot R starts at (3,0) while the mines are at (2,2) and (1,2). One possible generated
-sequence of actions is:
-["up","right","right","collect","up","collect"]
+sequence of actions is: "up" -> "right" -> "right" -> "collect" -> "up" -> "collect"
+
