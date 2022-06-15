@@ -1,3 +1,5 @@
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/1ed9766f60664971916b932dc117651e)](https://www.codacy.com?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=amir-awad/minesweeper-robot&amp;utm_campaign=Badge_Grade)
+
 # minesweeper-robot
 In this project we were asked to implement the AI module for a minesweeper robot in
 Haskell. The environment in which the robot operates is an 4 × 4 grid of cells. Initially,
